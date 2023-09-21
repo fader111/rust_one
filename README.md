@@ -1,1 +1,1 @@
-# Firs Rust attempt
+# First Rust attempt
